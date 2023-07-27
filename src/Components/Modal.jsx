@@ -1,5 +1,5 @@
 import React from "react";
-import modalimg from "../../images/images-rules-bonus.svg";
+import modalimg from "../../images/image-rules-bonus.svg";
 import close from "../../images/icon-close.svg";
 import "./Modal.css";
 
